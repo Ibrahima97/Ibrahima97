@@ -28,8 +28,8 @@ I work across the entire data lifecycle — from ingestion and transformation to
   <img src="https://www.python.org/static/community_logos/python-logo.png" width="120" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100" />
 </p>
 
 
