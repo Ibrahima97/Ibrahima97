@@ -20,6 +20,21 @@ I work across the entire data lifecycle — from ingestion and transformation to
 
 ---
 
+## 💻 Some frameworks I am working with currently
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64.png" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" />
+  <img src="https://learn.microsoft.com/en-us/azure/synapse-analytics/media/synapse-analytics-logo.png" width="60" />
+  <img src="https://nifi.apache.org/assets/images/nifi-logo.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60" />
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="60" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="70" />
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="60" />
+</p>
+
+
 ## 🌱 Outside of work
 
 I'm curious by nature, I enjoy sports, and I'm always looking for new ways to grow personally and professionally.
