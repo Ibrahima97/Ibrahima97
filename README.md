@@ -27,9 +27,9 @@ I work across the entire data lifecycle — from ingestion and transformation to
   <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="80" />
   <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="60" />
-  <img src="https://fr.wikipedia.org/wiki/Fichier:Hadoop_logo.svg" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="80" />
   <img src="https://fr.wikipedia.org/wiki/Fichier:AirflowLogo.png" width="80" />
-  <img src="https://commons.wikimedia.org/wiki/File:Google_Cloud_logo.svg" width="80" />
+  <img src="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud" width="80" />
 </p>
 
 
