@@ -24,4 +24,13 @@ I work across the entire data lifecycle — from ingestion and transformation to
 
 I'm curious by nature, I enjoy sports, and I'm always looking for new ways to grow personally and professionally.
 
+## 🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/ibrahima-hadi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ibrahima97&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
