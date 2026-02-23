@@ -25,7 +25,7 @@ I work across the entire data lifecycle — from ingestion and transformation to
 <p align="left">
   <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64.png" width="60" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" />
-  <img src="https://learn.microsoft.com/en-us/azure/synapse-analytics/media/synapse-analytics-logo.png" width="60" />
+  <img src="https://cloud-computing.developpez.com/actu/306291/Amazon-Web-Services-annonce-la-disponibilite-d-AWS-CodeArtifact-un-service-de-depot-d-artefacts-logiciels-entierement-gere/" width="60" />
   <img src="https://nifi.apache.org/assets/images/nifi-logo.svg" width="60" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60" />
   <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" />
